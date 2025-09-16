@@ -1,0 +1,8 @@
+Name: Hema siri Mallipudi
+course: BSC Computers
+
+
+GITHUB: GitHub is web based interface that uses git, open source version control software
+that lets multiple people make separate changes to web pages at the same time.
+   
+
